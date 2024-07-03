@@ -52,7 +52,7 @@
 <a href="https://blog.csdn.net/m0_74075298" target="blank"><img align="center" src="https://g.csdnimg.cn/static/logo/favicon32.ico" alt="CSDN" height="30" width="30" /></a>
 <a href="mailto:howxu366@163.com" target="blank"><img align="center" src="https://mail.163.com/favicon.ico" alt="163Mail" height="30" width="30" /></a>
 <a href="https://music.163.com/#/user/home?id=1653714069" target="blank"><img align="center" src="https://s1.music.126.net/style/favicon.ico" alt="163Mail" height="30" width="30" /></a>
-<a href="https://wpa.qq.com/msgrd?v=3&uin=672252397&site=qq&menu=yes" target="blank"><img align="center" src="https://qq-web.cdn-go.cn//im.qq.com_new/7bce6d6d/asset/favicon.ico" alt="163Mail" height="30" width="30" /></a>
+<a href="https://wpa.qq.com/msgrd?v=3&uin=672252397&site=qq&menu=yes" target="blank"><img align="center" src="./src/qq.ico" alt="TencentQQ" height="30" width="30" /></a>
 </p>
 
 
