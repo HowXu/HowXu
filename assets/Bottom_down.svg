@@ -50,5 +50,4 @@ svg {
   </defs> 
   <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
   <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-  <text font-size="8" text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10" >The End</text>
 </svg>
