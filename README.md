@@ -38,13 +38,13 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=HowXu&show_icons=true&theme=radical&include_all_commits=true" width="100%" />
+				<img src="https://github-readme-stats.vercel.app/api?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
 				</img>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowXu&theme=radical&layout=compact" width="100%" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowXu&theme=tokyonight&layout=compact" width="100%" />
 				</img>
 			</center>
 		</td>
@@ -55,7 +55,7 @@
 		</img>
 </center>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=blueberry-duo&hide_border=true&area=true" />
 
 <center>
 		<img src="https://skillicons.dev/icons?i=js,html,java,kotlin,c,linux,azul,dotnet,idea,vscode,github&theme=light" width="100%" />
