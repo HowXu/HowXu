@@ -51,11 +51,11 @@
 </table>
 
 <center>
-		<img src="https://streak-stats.demolab.com?user=HowXu&theme=github-compact" width="100%" />
+		<img src="https://streak-stats.demolab.com?user=HowXu&theme=gruvbox-duo" width="100%" />
 		</img>
 </center>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=blueberry-duo&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
 
 <center>
 		<img src="https://skillicons.dev/icons?i=js,html,java,kotlin,c,linux,azul,dotnet,idea,vscode,github&theme=light" width="100%" />
