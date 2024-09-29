@@ -1,18 +1,34 @@
-![](assets/Bottom_up.svg)
+<center>
+		<img src="./assets/Bottom_up.svg" width="100%" />
+		</img>
+</center>
+
+<center>
+		<img src="./src/header_.png" width="100%" />
+		</img>
+</center>
+
+<br/>
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/HowXu"><img src="https://img.shields.io/badge/Recent-pauseGit-red"></a>
-    <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Language-Java-blue"></a>
-    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Language-C-green"></a>    
-    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Language-Kotlin-purple"></a>
-    <a href="https://linux.org/"><img src="https://img.shields.io/badge/Skill-Linux-orange"></a>  
+    <a href="https://github.com/HowXu"><img src="https://img.shields.io/badge/Recent-University-red"></a>
+    <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Lang-Java-blue"></a>
+    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Lang-C-green"></a>    
+    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Lang-Kotlin-purple"></a>
+    <a href="https://linux.org/"><img src="https://img.shields.io/badge/System-Linux-orange"></a>  
 </p>
 
-![](./src/header_.png)
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+HowXu;+Welcome+to+My+Profile!;Full+Love+for+computer+and+games;Java+Kotlin+C+Linux;Always+充满希望与勇气;)](https://git.io/typing-svg)
+
+<!--   my-ticker -->   
+<center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+HowXu;+Welcome+to+My+Profile!;Full+Love+for+computer+science+and+games;故+事+应+有+的+光;充满+希望与勇气;不+做+无+法+实+现+的+梦)](https://git.io/typing-svg)
+
+</center> 
+
+
 
 
 
