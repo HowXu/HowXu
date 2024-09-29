@@ -51,7 +51,7 @@
 </table>
 
 <center>
-		<img src="https://streak-stats.demolab.com?user=HowXu&theme=dark" width="100%" />
+		<img src="https://streak-stats.demolab.com?user=HowXu&theme=github-compact" width="100%" />
 		</img>
 </center>
 
