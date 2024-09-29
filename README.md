@@ -55,7 +55,11 @@
 		</img>
 </center>
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
+<center>
+		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
+</center>
+
+
 
 <center>
 		<img src="https://skillicons.dev/icons?i=js,html,java,kotlin,c,linux,azul,dotnet,idea,vscode,github&theme=light" width="100%" />
