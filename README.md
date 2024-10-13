@@ -59,12 +59,22 @@
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
 </center>
 
-
+<h1 style="color:gray;text-align:center;font-size:10pt">HowXu's Achievements</h1>
 
 <center>
-		<img src="https://skillicons.dev/icons?i=js,html,java,kotlin,c,linux,azul,dotnet,idea,vscode,github&theme=light" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&column=5&margin-w=18"></img>
+
+</center>
+
+<h1 style="color:gray;text-align:center;font-size:10pt">HowXu's skill stacks</h1>
+
+<center>
+		<img src="https://skillicons.dev/icons?i=kali,java,c,linux,github,azul,dotnet,idea,vscode,js&theme=light" width="100%" />
 		</img>
 </center>
+
+<br>
 
 **📫 How to Reach me:**
 <p align="center">
