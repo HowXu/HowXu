@@ -59,7 +59,7 @@
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
 </center>
 
-<h1 style="color:gray;text-align:center;font-size:10pt">HowXu's Achievements</h1>
+<h1 style="color:gray;text-align:center;font-size:2pt">HowXu's Achievements</h1>
 
 <center>
 
@@ -67,7 +67,7 @@
 
 </center>
 
-<h1 style="color:gray;text-align:center;font-size:10pt">HowXu's skill stacks</h1>
+<h1 style="color:gray;text-align:center;font-size:2pt">HowXu's skill stacks</h1>
 
 <center>
 		<img src="https://skillicons.dev/icons?i=kali,java,c,linux,github,azul,dotnet,idea,vscode,js&theme=light" width="100%" />
