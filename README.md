@@ -63,7 +63,7 @@
 
 <center>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&column=5&margin-w=18" width="100%"></img>
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh&column=5&margin-w=18" width="80%"></img>
 
 </center>
 
