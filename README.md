@@ -59,6 +59,7 @@
 		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
 </center>
 
+**🏆 HowXu's achievements:**
 
 <center>
 
@@ -66,6 +67,7 @@
 
 </center>
 
+**⭐️ HowXu's skill stacks:**
 
 <center>
 		<img src="https://skillicons.dev/icons?i=kali,java,c,linux,github,azul,dotnet,idea,vscode,js&theme=light" width="100%" />
