@@ -79,9 +79,7 @@
 **📫 How to Reach me:**
 <p align="center">
 <a href="mailto:howxu366@outlook.com" target="blank"><img align="center" src="assets/outlook.svg" alt="Outlook" height="50" width="50" /></a>
-<a href="https://blog.csdn.net/m0_74075298" target="blank"><img align="center" src="./src/csdn.svg" alt="CSDN" height="50" width="50" /></a>
 <a href="mailto:howxu366@163.com" target="blank"><img align="center" src="./src/163mail.svg" alt="163Mail" height="50" width="50" /></a>
-<a href="https://music.163.com/#/user/home?id=1653714069" target="blank"><img align="center" src="./src/163music.svg" alt="163Mail" height="50" width="50" /></a>
 <a href="https://wpa.qq.com/msgrd?v=3&uin=672252397&site=qq&menu=yes" target="blank"><img align="center" src="./src/qq.ico" alt="TencentQQ" height="50" width="50" /></a>
 </p>
 
