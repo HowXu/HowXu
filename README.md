@@ -60,7 +60,7 @@
 **🏆 HowXu's achievements:**
 
 <center>
-	<img src="https://github-profile-trophy.vercel.app/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
+	<img src="https://github-profile-trophy-kannan.vercel.app/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
 	</img>
 </center>
 
@@ -85,6 +85,6 @@
 ### Thanks for visiting ❤
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/HowXu/count.svg" width="50%">  
+<img src="https://server.jagaldol.com/profile-counter/HowXu/count.svg" width="50%">  
 
 ![](assets/Bottom_down.svg)
