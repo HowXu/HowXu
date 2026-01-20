@@ -14,8 +14,6 @@
 <p align="center">
     <a href="https://github.com/HowXu"><img src="https://img.shields.io/badge/Recent-University-red"></a>
     <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Lang-Java-blue"></a>
-    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Lang-C-green"></a>    
-    <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/Lang-Kotlin-purple"></a>
     <a href="https://linux.org/"><img src="https://img.shields.io/badge/System-Linux-orange"></a>  
 </p>
 
