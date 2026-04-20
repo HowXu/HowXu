@@ -36,7 +36,7 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true" width="100%" />
+				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" width="100%" />
 				</img>
 			</center>
 		</td>
@@ -60,7 +60,7 @@
 **🏆 HowXu's achievements:**
 
 <center>
-	<img src="https://github-profile-trophy-kannan.vercel.app/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
+	<img src="https://trophygh.kolioaris.xyz/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
 	</img>
 </center>
 
