@@ -36,13 +36,13 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" width="100%" />
+				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact" width="100%" />
 				</img>
 			</center>
 		</td>
 		<td>
 			<center>
-				<img src="https://github-readme-stats.vercel.app/api?username=HowXu&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&hide=EJS,GLSL,CSS,HTML,Stylus" width="100%" />
+				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api?username=HowXu&theme=tokyonight&layout=compact&size_weight=0.5&count_weight=0.5&hide=EJS,GLSL,CSS,HTML,Stylus" width="100%" />
 				</img>
 			</center>
 		</td>
