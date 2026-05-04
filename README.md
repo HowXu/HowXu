@@ -22,7 +22,7 @@
 <!--   my-ticker -->   
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+HowXu;+Welcome+to+My+Profile!;Full+Love+for+computer+science+and+games;故+事+应+有+的+光;希望与勇气;不+做+无+法+实+现+的+梦)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-93k8xxpb3-howxus-projects.vercel.app?color=%2336BCF7&center=true&vCenter=true&width=800&size=30&lines=Hi+there+👋,+I+am+HowXu;+Welcome+to+My+Profile!;Full+Love+for+computer+science+and+games;故+事+应+有+的+光;希望与勇气;不+做+无+法+实+现+的+梦)](https://git.io/typing-svg)
 
 </center> 
 
