@@ -36,7 +36,7 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&hide=javascript,html,css,ejs,shell,stylus,glsl&langs_count=8" width="100%" />
+				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&hide=javascript,html,css,ejs,shell,stylus,glsl,php&langs_count=8" width="100%" />
 				</img>
 			</center>
 		</td>
