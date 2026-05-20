@@ -14,7 +14,9 @@
 <p align="center">
     <a href="https://github.com/HowXu"><img src="https://img.shields.io/badge/Recent-University-red"></a>
     <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Lang-Java-blue"></a>
-    <a href="https://linux.org/"><img src="https://img.shields.io/badge/System-Linux-orange"></a>  
+	<a href="https://rust-lang.org/zh-CN/"><img src="https://img.shields.io/badge/Lang-Rust-blue"></a>  
+	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Lang-Python-blue"></a>  
+    <a href="https://linux.org/"><img src="https://img.shields.io/badge/Windows-Linux-orange"></a>  
 </p>
 
 
@@ -36,7 +38,7 @@
 <table rules="none" align="center">
 		<td>
 			<center>
-				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&include_all_commits=true&layout=compact&hide=javascript,html,css,ejs,shell,stylus,glsl,php&langs_count=8" width="100%" />
+				<img src="https://github-readme-stats-ten-pi-31.vercel.app/api/top-langs/?username=HowXu&show_icons=true&theme=tokyonight&exclude_repo=Chocolate&include_all_commits=true&layout=compact&hide=javascript,html,css,ejs,shell,stylus,glsl,php&langs_count=8" width="100%" />
 				</img>
 			</center>
 		</td>
