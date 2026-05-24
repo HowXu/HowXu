@@ -76,11 +76,7 @@
 <br>
 
 
-**📫 How to Reach me:**
-<p align="center">
-<a href="mailto:i@howxu.cn" target="blank"><img align="center" src="assets/outlook.svg" alt="Outlook" height="50" width="50" /></a>
-<a href="https://wpa.qq.com/msgrd?v=3&uin=672252397&site=qq&menu=yes" target="blank"><img align="center" src="./src/qq.ico" alt="TencentQQ" height="50" width="50" /></a>
-</p>
+**📫 Reach me:** <a href="mailto:i@howxu.cn" target="blank">i@howxu.cn</a>
 
 
 ### Thanks for visiting ❤
