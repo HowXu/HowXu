@@ -76,9 +76,6 @@
 <br>
 
 
-**📫 Reach me:** <a href="mailto:i@howxu.cn" target="blank">i@howxu.cn</a>
-
-
 ### Thanks for visiting ❤
 
 <p align="center"> 
