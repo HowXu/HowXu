@@ -69,7 +69,7 @@
 **⭐️ HowXu's skill stacks:**
 
 <center>
-		<img src="https://skillicons.dev/icons?i=kali,java,c,linux,github,azul,dotnet,idea,vscode,js&theme=light" width="100%" />
+		<img src="https://skillicons.dev/icons?i=kali,linux,java,rust,c,python,ts,github,vscode,idea&theme=light" width="100%" />
 		</img>
 </center>
 
