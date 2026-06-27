@@ -56,7 +56,7 @@
 </center>
 
 <center>
-		<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
+		<img width="100%" src="https://github-readme-activity-graph-chi-five.vercel.app/graph?username=HowXu&theme=github-compact&hide_border=true&area=true" />
 </center>
 
 **🏆 HowXu's achievements:**
