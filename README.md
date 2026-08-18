@@ -62,7 +62,7 @@
 **🏆 HowXu's achievements:**
 
 <center>
-	<img src="https://trophygh.kolioaris.xyz/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
+	<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=HowXu&theme=juicyfresh&column=4&title=MultiLanguage,Stars,Commits,Followers,Experience,Repositories,Issues,PullRequest" width="100%">
 	</img>
 </center>
 
