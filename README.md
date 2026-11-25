@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://github.com/HowXu"><img src="https://img.shields.io/badge/Recent-University-red"></a>
     <a href="https://openjdk.org/"><img src="https://img.shields.io/badge/Lang-Java-blue"></a>
-	<a href="https://rust-lang.org/zh-CN/"><img src="https://img.shields.io/badge/Lang-Rust-blue"></a>  
+	<a href="https://rust-lang.org/zh-CN/"><img src="https://img.shields.io/badge/Lang-TypeScript-blue"></a>  
 	<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Lang-Python-blue"></a>  
     <a href="https://linux.org/"><img src="https://img.shields.io/badge/Windows-Linux-orange"></a>  
 </p>
